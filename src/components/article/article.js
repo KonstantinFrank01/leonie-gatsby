@@ -16,12 +16,14 @@ const Article = ({ img, title, summary, excerptHeader, excerpt, link }) => (
             </div>
         </div>
         <div class="overlay">
-            <span class="excerptHeader">{ excerptHeader }</span><br/>
+            <div class="excerptHeader">
+                <span>{ excerptHeader }</span><br/>
+            </div>
             <div class="excerpt">
                 <span>{ excerpt }</span>
             </div>
             <div class="btn-container">
-                <a type="button" className="btn btn-primary" href={link}>Read Article</a>
+                <a type="button" className="btn btn-primary" href={link}>Artikel lesen</a>
             </div>
         </div>
     </div>
