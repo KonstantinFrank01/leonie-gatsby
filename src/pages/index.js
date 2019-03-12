@@ -16,9 +16,7 @@ const IndexPage = () => (
     <Layout>
       <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
       <img src={heroImage} alt="Hero Image" style={{ height: '80vh'}}/>
-      {/* <div style={{}}>
-        <Typist />
-      </div> */}
+      <Typist />
     </Layout>
     <div className="container">
       <div className="mt-5 d-flex flex-row flex-wrap justify-content-around">
