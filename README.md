@@ -9,3 +9,6 @@ oben genannten Technologien entscheiden und damit eine größere Website bauen.
 
 ## Anwendungsfalldiagramm 
 ![use-case diagramm](src/images/use-case.jpeg)
+
+## Systemarchitektur
+![systemarchitektur](src/images/architecture.jpeg)
