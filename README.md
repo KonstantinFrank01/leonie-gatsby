@@ -7,4 +7,4 @@ Dabei sollen wir Unterschiede, sowie Vor- und Nachteile der verschiedenen Techno
 in einem Referat im Unterricht präsentieren. Nachdem wir dies getan haben werden wir uns für eine der 
 oben genannten Technologien entscheiden und damit eine größere Website bauen.
 
-![use-case diagramm](./src/images/use-case.jpeg)
+![use-case diagramm](src/images/use-case.jpeg)
