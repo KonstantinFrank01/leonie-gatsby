@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import Layout from "../components/layout"
 import Article from "../components/article/article"
 import Typist from "../components/typist/Typist"
+import Footer from "../components/footer/footer"
 import heroImage from "../images/heroImage.jpg"
 import codeImage from "../images/code.jpeg"
 import girlImage from "../images/girl.jpeg"
@@ -62,6 +63,7 @@ const IndexPage = () => (
         </Article>
       </div>
     </div>
+    <Footer />
   </div>
 )
 
